@@ -1,6 +1,7 @@
-import React from 'react'
+import React from 'react';
 import ReactDOM from 'react-dom';
-import Routing from './component/Routing';
+import Router from './component/Router';
 
-ReactDOM.render(<Routing/>,document.getElementById('root'))
 
+
+ReactDOM.render(<Router/>,document.getElementById('root'))
